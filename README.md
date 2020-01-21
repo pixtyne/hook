@@ -1,11 +1,8 @@
-<p align="center">
-  <img alt="preview of page" src="https://github.com/gillkyle/images/blob/master/Screen%20Shot%202019-03-21%20at%209.14.46%20PM.png" />
-</p>
+
 <h1 align="center">
-  Gatsby Landing Page Starter
+Hook
 </h1>
 
-A simple, minimal, easy-to-use landing page starter without all sorts of bells and whistles bolted on that you'll just have to strip out later. Create a super fast, beautiful landing page from a barebones template with a single page that already looks good.
 
 ## Prerequisites
 
