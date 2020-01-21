@@ -4,6 +4,7 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
+  background-color: #ffffff;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -65,7 +66,7 @@ h1 {
   margin: 0.67em 0;
 }
 mark {
-  background-color: #ff0;
+  background-color: #ffffff;
   color: #000;
 }
 img {
@@ -188,7 +189,7 @@ img {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 0.3rem;
 }
 h1 {
   margin-left: 0;
