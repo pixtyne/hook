@@ -3,7 +3,7 @@ module.exports = {
     title: `Hook`,
     description: `Sourcing hackers`,
     author: `@pixtyne`,
-    siteUrl: ``,
+    siteUrl: `https://gracious-brattain-1eb0d2.netlify.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
