@@ -32,7 +32,7 @@ const Header = ({ siteTitle }) => (
         />
             <h1 style={{ textAlign: "center" }}>Sourcing hackers</h1>
 
-    <Button>Apply</Button>
+    <Button >Apply</Button>
     {/* <div style={{ margin: 60, width: `250px`, position: "relative" }}>
       <div style={{ clipPath: "inset(2% 5% round 2% 5%)" }}>
         <MockupContent />
